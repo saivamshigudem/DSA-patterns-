@@ -1,5 +1,5 @@
 # DSA-patterns-
-All DSA patterns
+3 All DSA patterns
 1 Sliding Window
 2 Two Pointers
 3 Fast & Slow Pointers (Tortoise–Hare)
